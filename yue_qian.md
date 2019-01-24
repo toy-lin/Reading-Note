@@ -126,9 +126,9 @@
 
 ## 高手是如何修炼的？
 
-这一部分的内容非常多，讲的是学习的方法论。分别从怎么学，怎么选，怎么转化为价值几个方面分析高手的修炼之道。古典老师的书真实干货满满，总结到这里我都感觉我的脑袋要被干货挤爆了，赶紧喝口水压压惊。
+这一部分的内容非常多，讲的是学习的方法论。分别从怎么学，怎么选，怎么转化为价值几个方面分析高手的修炼之道。
 
-### 如何获取知识
+古典老师的书真是干货满满，总结到这里我都感觉我的脑袋要被干货挤爆了，赶紧吃个胃药压压惊。
 
 ![how to get knowledge](.gitbook/assets/image%20%286%29.png)
 
@@ -136,7 +136,15 @@
 
 ![how to choose knowledge](.gitbook/assets/image.png)
 
-![knowledge IPO](.gitbook/assets/image%20%288%29.png)
+![knowledge IPO](.gitbook/assets/image%20%2810%29.png)
+
+## 高手是如何解决问题的？
+
+![how to solve problem](.gitbook/assets/image%20%289%29.png)
+
+## 高手的内在修炼
+
+![attitude](.gitbook/assets/image%20%288%29.png)
 
 
 
